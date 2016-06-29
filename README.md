@@ -1,2 +1,2 @@
 # documentation
-Documentation for the group
+Click on the Wiki for more info.
